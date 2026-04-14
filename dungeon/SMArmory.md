@@ -7,13 +7,13 @@
 **人数上限:** 5人  
 
 ## 关键点/首领
-- 钥匙: 血色十字军钥匙
-- A) 入口
-- 1) 赫洛德 ([掉落](#boss-3975))
-- 2) Armory Quartermaster Daghelm ([掉落](#boss--1))
-- 
-- 小怪
-- 套装: Chain of the Scarlet Crusade
+- 钥匙: 血色十字军钥匙1
+- A) 入口1
+- [1) 赫洛德](../npc/3975.md)
+- 2) Armory Quartermaster Daghelm3
+- 0
+- 小怪0
+- 套装: Chain of the Scarlet Crusade5
 
 ## 相关任务
 ### 联盟

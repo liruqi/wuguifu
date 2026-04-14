@@ -7,20 +7,20 @@
 **人数上限:** 15人  
 
 ## 关键点/首领
-- 声望: The Defilers (Horde)
-- 声望: The League of Arathor (Alliance)
-- A) 托尔贝恩大厅 (Alliance)
-- B) 污染者之穴 (Horde)
-- 1) 兽栏
-- 2) 金矿
-- 3) 铁匠铺
-- 4) 伐木场
-- 5) 农场
-- 
-- 友善声望奖励
-- 尊敬声望奖励
-- 崇敬声望奖励
-- 崇拜声望奖励
+- 声望: The Defilers (Horde)3
+- 声望: The League of Arathor (Alliance)5
+- A) 托尔贝恩大厅 (Alliance)2
+- B) 污染者之穴 (Horde)2
+- 1) 兽栏1
+- 2) 金矿1
+- 3) 铁匠铺1
+- 4) 伐木场1
+- 5) 农场1
+- 0
+- 友善声望奖励0
+- 尊敬声望奖励0
+- 崇敬声望奖励0
+- 崇拜声望奖励0
 
 ## 相关任务
 ### 联盟

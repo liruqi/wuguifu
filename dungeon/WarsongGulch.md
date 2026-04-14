@@ -7,14 +7,14 @@
 **人数上限:** 10人  
 
 ## 关键点/首领
-- 声望: Warsong Outriders (Horde)
-- 声望: Silverwing Sentinels (Alliance)
-- A) 银翼要塞 (Alliance)
-- B) 战歌伐木场 (Horde)
-- 
-- 友善声望奖励
-- 尊敬声望奖励
-- 崇敬声望奖励
-- 崇拜声望奖励
+- 声望: Warsong Outriders (Horde)3
+- 声望: Silverwing Sentinels (Alliance)3
+- A) 银翼要塞 (Alliance)2
+- B) 战歌伐木场 (Horde)2
+- 0
+- 友善声望奖励0
+- 尊敬声望奖励0
+- 崇敬声望奖励0
+- 崇拜声望奖励0
 
 ## 相关任务

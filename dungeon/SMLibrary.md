@@ -7,14 +7,14 @@
 **人数上限:** 5人  
 
 ## 关键点/首领
-- A) 入口
-- 1) 驯犬者洛克希 ([掉落](#boss-3974))
-- 2) 秘法师杜安 ([掉落](#boss-6487))
-- 1') 杜安的保险箱
-- 3) Brother Wystan ([掉落](#boss--1))
-- 
-- 小怪
-- 套装: Chain of the Scarlet Crusade
+- A) 入口1
+- [1) 驯犬者洛克希](../npc/3974.md)
+- [2) 秘法师杜安](../npc/6487.md)
+- 1') 杜安的保险箱1
+- 3) Brother Wystan2
+- 0
+- 小怪0
+- 套装: Chain of the Scarlet Crusade5
 
 ## 相关任务
 ### 联盟
