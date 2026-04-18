@@ -1,54 +1,61 @@
 # 副本列表
 
-| 副本名称 | 等级范围 | 链接 |
-| :--- | :--- | :--- |
-| 战歌峡谷 | 10-60 | [进入文档](WarsongGulch.md) |
-| 怒焰裂谷 | 13-18 | [进入文档](RagefireChasm.md) |
-| 霜鬃峡谷 | 13-20 | [进入文档](FrostmaneHollow.md) |
-| 死亡矿井 | 17-24 | [进入文档](TheDeadmines.md) |
-| 哀嚎洞穴 | 17-24 | [进入文档](WailingCaverns.md) |
-| 阿拉希盆地 | 20-60 | [进入文档](ArathiBasin.md) |
-| 影牙城堡 | 22-30 | [进入文档](ShadowfangKeep.md) |
-| 监狱 | 24-31 | [进入文档](TheStockade.md) |
-| 黑暗深渊 | 24-32 | [进入文档](BlackfathomDeeps.md) |
-| 风角峡谷 | 25-33 | [进入文档](WindhornCanyon.md) |
-| 龙喉居所 | 25-35 | [进入文档](DragonmawRetreat.md) |
-| 血色修道院: 墓地 | 26-36 | [进入文档](SMGraveyard.md) |
-| 诺莫瑞根 | 29-38 | [进入文档](Gnomeregan.md) |
-| 剃刀沼泽 | 29-38 | [进入文档](RazorfenKraul.md) |
-| 血色修道院: 图书馆 | 29-39 | [进入文档](SMLibrary.md) |
-| 新月林地 | 32-38 | [进入文档](TheCrescentGrove.md) |
-| 血色修道院: 军械库 | 32-42 | [进入文档](SMArmory.md) |
-| 风暴废墟 | 32-44 | [进入文档](StormwroughtRuins.md) |
-| 血色修道院: 大教堂 | 35-45 | [进入文档](SMCathedral.md) |
-| 剃刀高地 | 37-46 | [进入文档](RazorfenDowns.md) |
-| 奥达曼 | 41-51 | [进入文档](Uldaman.md) |
-| 吉尔尼斯城 | 43-49 | [进入文档](GilneasCity.md) |
-| 祖尔法拉克 | 44-54 | [进入文档](ZulFarrak.md) |
-| 玛拉顿 | 46-55 | [进入文档](Maraudon.md) |
-| 沉没的神庙 | 50-60 | [进入文档](TheSunkenTemple.md) |
-| 奥特兰克山谷 (北) | 51-60 | [进入文档](AlteracValleyNorth.md) |
-| 奥特兰克山谷 (南) | 51-60 | [进入文档](AlteracValleySouth.md) |
-| 黑石深渊 | 52-60 | [进入文档](BlackrockDepths.md) |
-| 仇恨熔炉采石场 | 52-60 | [进入文档](HateforgeQuarry.md) |
-| 厄运之槌 (东) | 55-58 | [进入文档](DireMaulEast.md) |
-| 黑石塔上层 | 55-60 | [进入文档](BlackrockSpireUpper.md) |
-| 黑石塔下层 | 55-60 | [进入文档](BlackrockSpireLower.md) |
-| 厄运之槌 (北) | 57-60 | [进入文档](DireMaulNorth.md) |
-| 厄运之槌 (西) | 57-60 | [进入文档](DireMaulWest.md) |
-| 斯坦索姆 | 58-60 | [进入文档](Stratholme.md) |
-| 卡拉赞下层大厅 | 58-60 | [进入文档](LowerKara.md) |
-| 通灵学院 | 58-60 | [进入文档](Scholomance.md) |
-| 翡翠圣殿 | 58-60 | [进入文档](EmeraldSanctum.md) |
-| 卡拉赞墓穴 | 58-60 | [进入文档](KarazhanCrypt.md) |
-| 安其拉废墟 | 60+ | [进入文档](TheRuinsofAhnQiraj.md) |
-| 奥妮克希亚的巢穴 | 60+ | [进入文档](OnyxiasLair.md) |
-| 卡拉赞之塔 | 60+ | [进入文档](UpperKara.md) |
-| 黑翼之巢 | 60+ | [进入文档](BlackwingLair.md) |
-| 祖尔格拉布 | 60+ | [进入文档](ZulGurub.md) |
-| 安其拉神庙 | 60+ | [进入文档](TheTempleofAhnQiraj.md) |
-| 熔火之心 | 60+ | [进入文档](MoltenCore.md) |
-| 木喉要塞 | 60+ | [进入文档](TimbermawHold.md) |
-| 纳克萨玛斯 | 60+ | [进入文档](Naxxramas.md) |
-| 暴风城地牢 | 60-60 | [进入文档](StormwindVault.md) |
-| 黑色沼泽 | 60-60 | [进入文档](CavernsOfTimeBlackMorass.md) |
+## 东部王国
+
+![地下城位置 (东部王国)](DLEast.png)
+
+| 副本名称 | 类型 | 区域 | 等级范围 |
+| :--- | :---: | :--- | :---: |
+| [霜鬃峡谷](FrostmaneHollow.md) | 5人 | 丹莫罗 | 13-20 |
+| [死亡矿井](TheDeadmines.md) | 5人 | 西部荒野 | 17-24 |
+| [影牙城堡](ShadowfangKeep.md) | 5人 | 银松森林 | 22-30 |
+| [监狱](TheStockade.md) | 5人 | 暴风城 | 24-31 |
+| [龙喉居所](DragonmawRetreat.md) | 5人 | 湿地 | 25-35 |
+| [血色修道院: 墓地](SMGraveyard.md) | 5人 | 提瑞斯法林地 | 26-36 |
+| [血色修道院: 图书馆](SMLibrary.md) | 5人 | 提瑞斯法林地 | 29-39 |
+| [诺莫瑞根](Gnomeregan.md) | 5人 | 丹莫罗 | 29-38 |
+| [血色修道院: 军械库](SMArmory.md) | 5人 | 提瑞斯法林地 | 32-42 |
+| [风暴废墟](StormwroughtRuins.md) | 5人 | 阿拉希高地 | 32-44 |
+| [血色修道院: 大教堂](SMCathedral.md) | 5人 | 提瑞斯法林地 | 35-45 |
+| [奥达曼](Uldaman.md) | 5人 | 荒芜之地 | 41-51 |
+| [吉尔尼斯城](GilneasCity.md) | 5人 | 吉尔尼斯 | 43-49 |
+| [沉没的神庙](TheSunkenTemple.md) | 5人 | 悲伤沼泽 | 50-60 |
+| [黑石深渊](BlackrockDepths.md) | 5人 | 黑石山 | 52-60 |
+| [仇恨熔炉采石场](HateforgeQuarry.md) | 5人 | 燃烧平原 | 52-60 |
+| [黑石塔下层](BlackrockSpireLower.md) | 10人 | 黑石山 | 55-60 |
+| [黑石塔上层](BlackrockSpireUpper.md) | 10人 | 黑石山 | 55-60 |
+| [斯坦索姆](Stratholme.md) | 5人 | 东瘟疫之地 | 58-60 |
+| [通灵学院](Scholomance.md) | 5人 | 西瘟疫之地 | 58-60 |
+| [卡拉赞墓穴](KarazhanCrypt.md) | 5人 | 逆风小径 | 58-60 |
+| [卡拉赞下层大厅](LowerKara.md) | 10人 | 逆风小径 | 58-60 |
+| [暴风城地牢](StormwindVault.md) | 5人 | 暴风城 | 60 |
+| [祖尔格拉布](ZulGurub.md) | 20人团本 | 荆棘谷 | 60+ |
+| [黑翼之巢](BlackwingLair.md) | 40人团本 | 黑石山 | 60+ |
+| [熔火之心](MoltenCore.md) | 40人团本 | 黑石深渊 | 60+ |
+| [卡拉赞之塔](UpperKara.md) | 40人团本 | 逆风小径 | 60+ |
+| [纳克萨玛斯](Naxxramas.md) | 40人团本 | 东瘟疫之地 | 60+ |
+
+## 卡利姆多
+
+![地下城位置 (卡利姆多)](DLWest.png)
+
+| 副本名称 | 类型 | 区域 | 等级范围 |
+| :--- | :---: | :--- | :---: |
+| [怒焰裂谷](RagefireChasm.md) | 5人 | 奥格瑞玛 | 13-18 |
+| [哀嚎洞穴](WailingCaverns.md) | 5人 | 贫瘠之地 | 17-24 |
+| [黑暗深渊](BlackfathomDeeps.md) | 5人 | 灰谷 | 24-32 |
+| [风角峡谷](WindhornCanyon.md) | 5人 | 贫瘠之地 | 25-33 |
+| [剃刀沼泽](RazorfenKraul.md) | 5人 | 贫瘠之地 | 29-38 |
+| [新月林地](TheCrescentGrove.md) | 5人 | 灰谷 | 32-38 |
+| [剃刀高地](RazorfenDowns.md) | 5人 | 贫瘠之地 | 37-46 |
+| [祖尔法拉克](ZulFarrak.md) | 5人 | 塔纳利斯 | 44-54 |
+| [玛拉顿](Maraudon.md) | 5人 | 凄凉之地 | 46-55 |
+| [厄运之槌 (东)](DireMaulEast.md) | 5人 | 菲拉斯 | 55-58 |
+| [厄运之槌 (北)](DireMaulNorth.md) | 5人 | 菲拉斯 | 57-60 |
+| [厄运之槌 (西)](DireMaulWest.md) | 5人 | 菲拉斯 | 57-60 |
+| [翡翠圣殿](EmeraldSanctum.md) | 40人团本 | 海加尔山 | 58-60 |
+| [黑色沼泽](CavernsOfTimeBlackMorass.md) | 5人 | 时光之穴 | 60 |
+| [奥妮克希亚的巢穴](OnyxiasLair.md) | 40人团本 | 尘泥沼泽 | 60+ |
+| [安其拉废墟](TheRuinsofAhnQiraj.md) | 20人团本 | 希利苏斯 | 60+ |
+| [安其拉神庙](TheTempleofAhnQiraj.md) | 40人团本 | 希利苏斯 | 60+ |
+| [木喉要塞](TimbermawHold.md) | 20人 | 菲尔伍德 | 60+ |
