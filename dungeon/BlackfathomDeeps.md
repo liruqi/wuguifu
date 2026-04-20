@@ -2,6 +2,8 @@
 
 ![黑暗深渊](BlackfathomDeeps.png)
 
+![黑暗深渊 入口](BlackfathomDeepsEnt.png)
+
 **位置:** 灰谷  
 **适用等级:** 24-32 (19+)  
 **人数上限:** 5人  

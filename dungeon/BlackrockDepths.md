@@ -2,6 +2,8 @@
 
 ![黑石深渊](BlackrockDepths.png)
 
+![黑石深渊 入口](BlackrockMountainEnt.png)
+
 **位置:** 黑石山  
 **适用等级:** 52-60 (42+)  
 **人数上限:** 5人  

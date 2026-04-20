@@ -2,6 +2,8 @@
 
 ![哀嚎洞穴](WailingCaverns.png)
 
+![哀嚎洞穴 入口](WailingCavernsEnt.png)
+
 **位置:** 贫瘠之地  
 **适用等级:** 17-24 (10+)  
 **人数上限:** 5人  

@@ -2,6 +2,8 @@
 
 ![熔火之心](MoltenCore.png)
 
+![熔火之心 入口](BlackrockMountainEnt.png)
+
 **位置:** 黑石深渊  
 **适用等级:** 60+ (60+)  
 **人数上限:** 40人  

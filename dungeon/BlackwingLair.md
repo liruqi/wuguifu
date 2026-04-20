@@ -2,6 +2,8 @@
 
 ![黑翼之巢](BlackwingLair.png)
 
+![黑翼之巢 入口](BlackrockMountainEnt.png)
+
 **位置:** 黑石塔  
 **适用等级:** 60+ (60+)  
 **人数上限:** 40人  

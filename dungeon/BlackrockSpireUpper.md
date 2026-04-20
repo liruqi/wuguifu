@@ -2,6 +2,8 @@
 
 ![黑石塔上层](BlackrockSpireUpper.png)
 
+![黑石塔上层 入口](BlackrockMountainEnt.png)
+
 **位置:** 黑石山  
 **适用等级:** 55-60 (55+)  
 **人数上限:** 10人  

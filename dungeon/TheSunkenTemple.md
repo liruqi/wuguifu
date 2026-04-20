@@ -2,6 +2,8 @@
 
 ![沉没的神庙](TheSunkenTemple.png)
 
+![沉没的神庙 入口](TheSunkenTempleEnt.png)
+
 **位置:** 悲伤沼泽  
 **适用等级:** 50-60 (35+)  
 **人数上限:** 5人  
