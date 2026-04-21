@@ -9,6 +9,7 @@
 | A | [奥特兰克山谷 (北)](AlteracValleyNorth.md) | PVP战场 | 奥特兰克山脉 | 51-60 |
 | A | [奥特兰克山谷 (南)](AlteracValleySouth.md) | PVP战场 | 希尔斯布莱德丘陵 | 51-60 |
 | B | [阿拉希盆地](ArathiBasin.md) | PVP战场 | 阿拉希高地 | 20-60 |
+| C | [血色竞技场](BloodRingArena.md) | PVP战场 | 荆棘谷 | 50-60 |
 | 1 | [血色修道院: 军械库](SMArmory.md) | 5人 | 提瑞斯法林地 | 32-42 |
 | 1 | [血色修道院: 图书馆](SMLibrary.md) | 5人 | 提瑞斯法林地 | 29-39 |
 | 1 | [血色修道院: 墓地](SMGraveyard.md) | 5人 | 提瑞斯法林地 | 26-36 |
@@ -45,6 +46,7 @@
 | 编号 | 副本名称 | 类型 | 区域 | 等级范围 |
 | :---: | :--- | :---: | :--- | :---: |
 | A | [战歌峡谷](WarsongGulch.md) | PVP战场 | 灰谷 / 贫瘠之地 | 10-60 |
+| B | [阳光谷](SunnygladeValley.md) | PVP战场 | 时光之穴 | 60-60 |
 | 1 | [翡翠圣殿](EmeraldSanctum.md) | 40人团本 | 海加尔山 | 58-60 |
 | 2 | [黑暗深渊](BlackfathomDeeps.md) | 5人 | 灰谷 | 24-32 |
 | 3 | [新月林地](TheCrescentGrove.md) | 5人 | 灰谷 | 32-38 |
