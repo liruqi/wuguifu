@@ -36,3 +36,4 @@
 - [蝙蝠的粪便](../quest/1109.md)
 - [奥尔德的报复](../quest/1102.md)
 - [野蛮护甲（战士任务）](../quest/1838.md)
+- [Tainted Brambleheart](../quest/41758.md)

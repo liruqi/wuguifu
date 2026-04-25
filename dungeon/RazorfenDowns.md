@@ -30,6 +30,6 @@
 ### 部落
 - [邪恶之地](../quest/6626.md)
 - [邪恶的盟友](../quest/6521.md)
-- [Extinguishing the Idol](../quest/3525.md)
+- [封印神像](../quest/3525.md)
 - [寒冰之王](../quest/3341.md)
 - [超越的力量](../quest/40995.md)
