@@ -2,7 +2,7 @@
 
 ![黑石深渊](BlackrockDepths.png)
 
-![黑石深渊 入口](BlackrockMountainEnt.png)
+[![黑石深渊 入口](BlackrockMountainEnt.png)](ent/BlackrockMountain.md)
 
 **位置:** 黑石山  
 **适用等级:** 52-60 (42+)  
@@ -76,7 +76,6 @@
 - 熔火碎片0
 - [24) 征服者派隆](../npc/9026.md)
 - 25) 锻造设计图1
-- 0
 - 小怪0
 - 套装: The Gladiator2
 - 套装: Ironweave Battlesuit2

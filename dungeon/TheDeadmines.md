@@ -2,7 +2,7 @@
 
 ![死亡矿井](TheDeadmines.png)
 
-![死亡矿井 入口](TheDeadminesEnt.png)
+[![死亡矿井 入口](TheDeadminesEnt.png)](ent/TheDeadmines.md)
 
 **位置:** 西部荒野  
 **适用等级:** 17-24 (10+)  
@@ -22,7 +22,6 @@
 - [8) 曲奇](../npc/645.md)
 - [9) 绿皮队长](../npc/647.md)
 - [10) 艾德温·范克里夫](../npc/639.md)
-- 0
 - 小怪0
 - 套装: Defias Leather2
 

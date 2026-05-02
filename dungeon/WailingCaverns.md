@@ -2,7 +2,7 @@
 
 ![哀嚎洞穴](WailingCaverns.png)
 
-![哀嚎洞穴 入口](WailingCavernsEnt.png)
+[![哀嚎洞穴 入口](WailingCavernsEnt.png)](ent/WailingCaverns.md)
 
 **位置:** 贫瘠之地  
 **适用等级:** 17-24 (10+)  
@@ -23,7 +23,6 @@
 - [11) 永生者沃尔丹 (上层)](../npc/5775.md)
 - [12) 吞噬者穆坦努斯](../npc/3654.md)
 - [纳拉雷克斯](../npc/3679.md)
-- 0
 - 小怪0
 - 套装: Embrace of the Viper4
 

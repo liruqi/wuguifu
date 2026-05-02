@@ -2,7 +2,7 @@
 
 ![熔火之心](MoltenCore.png)
 
-![熔火之心 入口](BlackrockMountainEnt.png)
+[![熔火之心 入口](BlackrockMountainEnt.png)](ent/BlackrockMountain.md)
 
 **位置:** 黑石深渊  
 **适用等级:** 60+ (60+)  
@@ -26,12 +26,10 @@
 - 10) 巫王索瑞森1
 - [11) 管理者埃克索图斯](../npc/12018.md)
 - [12) 拉格纳罗斯](../npc/11502.md)
-- 0
 - 小怪0
 - 随机首领掉落0
 - T1 套装1
 - T2 套装1
-- 0
 - 伤害: 火焰1
 
 ## 相关任务

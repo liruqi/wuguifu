@@ -50,7 +50,6 @@
 - 5') 国王广场邮箱1
 - 6') 弗拉斯·希亚比的邮箱1
 - [第三个邮筒已打开: 邮差马龙](../npc/11143.md)
-- 0
 - 小怪0
 - 套装: The Postmaster2
 - 套装: Ironweave Battlesuit2

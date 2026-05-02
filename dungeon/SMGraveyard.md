@@ -2,7 +2,7 @@
 
 ![血色修道院: 墓地](SMGraveyard.png)
 
-![血色修道院: 墓地 入口](SMEnt.png)
+[![血色修道院: 墓地 入口](SMEnt.png)](ent/SM.md)
 
 **位置:** 提瑞斯法林地  
 **适用等级:** 26-36 (25+)  
@@ -18,7 +18,6 @@
 - [永醒的艾希尔 (稀有)](../npc/6490.md)
 - [亡灵勇士 (稀有)](../npc/6488.md)
 - 4) Duke Dreadmoore2
-- 0
 - 小怪0
 - 套装: Chain of the Scarlet Crusade5
 

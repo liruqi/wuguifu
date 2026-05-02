@@ -2,7 +2,7 @@
 
 ![黑石塔下层](BlackrockSpireLower.png)
 
-![黑石塔下层 入口](BlackrockMountainEnt.png)
+[![黑石塔下层 入口](BlackrockMountainEnt.png)](ent/BlackrockMountain.md)
 
 **位置:** 黑石山  
 **适用等级:** 55-60 (55+)  
@@ -41,7 +41,6 @@
 - [18) 霍克·巴什古德 (稀有)](../npc/9718.md)
 - [19) 维姆萨拉克](../npc/9568.md)
 - [1') 燃烧恶魔守卫 (稀有, 召唤)](../npc/10263.md)
-- 0
 - 小怪0
 - 套装: Ironweave Battlesuit2
 - 套装: Spider's Kiss2

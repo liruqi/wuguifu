@@ -2,7 +2,7 @@
 
 ![沉没的神庙](TheSunkenTemple.png)
 
-![沉没的神庙 入口](TheSunkenTempleEnt.png)
+[![沉没的神庙 入口](TheSunkenTempleEnt.png)](ent/TheSunkenTemple.md)
 
 **位置:** 悲伤沼泽  
 **适用等级:** 50-60 (35+)  
@@ -35,7 +35,6 @@
 - 精华之泉0
 - [玛法里恩·怒风 (召唤)](../npc/15362.md)
 - 1'-6') 雕像激活顺序1
-- 0
 - 小怪0
 
 ## 相关任务

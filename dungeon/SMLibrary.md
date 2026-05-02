@@ -2,7 +2,7 @@
 
 ![血色修道院: 图书馆](SMLibrary.png)
 
-![血色修道院: 图书馆 入口](SMEnt.png)
+[![血色修道院: 图书馆 入口](SMEnt.png)](ent/SM.md)
 
 **位置:** 提瑞斯法林地  
 **适用等级:** 29-39 (21+)  
@@ -14,7 +14,6 @@
 - [2) 秘法师杜安](../npc/6487.md)
 - 1') 杜安的保险箱1
 - 3) Brother Wystan2
-- 0
 - 小怪0
 - 套装: Chain of the Scarlet Crusade5
 

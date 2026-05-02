@@ -2,7 +2,7 @@
 
 ![黑暗深渊](BlackfathomDeeps.png)
 
-![黑暗深渊 入口](BlackfathomDeepsEnt.png)
+[![黑暗深渊 入口](BlackfathomDeepsEnt.png)](ent/BlackfathomDeeps.md)
 
 **位置:** 灰谷  
 **适用等级:** 24-32 (19+)  
@@ -25,7 +25,6 @@
 - [11) 阿库麦尔](../npc/4829.md)
 - [莫瑞杜恩](../npc/6729.md)
 - 玛塞斯特拉祭坛0
-- 0
 - 小怪0
 
 ## 相关任务

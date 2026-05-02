@@ -41,7 +41,6 @@
 - 1') 火炬拉杆1
 - 2') 旧宝藏箱1
 - 3') 炼金实验室1
-- 0
 - 小怪0
 - 套装: Necropile Raiment2
 - 套装: Cadaverous Garb2

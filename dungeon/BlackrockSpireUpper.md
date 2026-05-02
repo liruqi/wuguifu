@@ -2,7 +2,7 @@
 
 ![黑石塔上层](BlackrockSpireUpper.png)
 
-![黑石塔上层 入口](BlackrockMountainEnt.png)
+[![黑石塔上层 入口](BlackrockMountainEnt.png)](ent/BlackrockMountain.md)
 
 **位置:** 黑石山  
 **适用等级:** 55-60 (55+)  
@@ -30,7 +30,6 @@
 - [9) 达基萨斯将军](../npc/10363.md)
 - 达基萨斯的烙印0
 - 10) 黑翼之巢 (BWL)2
-- 0
 - 小怪0
 - 套装: Ironweave Battlesuit2
 - T0/T0.5 套装1

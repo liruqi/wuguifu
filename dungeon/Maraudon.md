@@ -2,7 +2,7 @@
 
 ![玛拉顿](Maraudon.png)
 
-![玛拉顿 入口](MaraudonEnt.png)
+[![玛拉顿 入口](MaraudonEnt.png)](ent/Maraudon.md)
 
 **位置:** 凄凉之地  
 **适用等级:** 46-55 (35+)  

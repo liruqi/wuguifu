@@ -11,7 +11,6 @@
 - 声望: Silverwing Sentinels (Alliance)3
 - A) 银翼要塞 (Alliance)2
 - B) 战歌伐木场 (Horde)2
-- 0
 - 友善声望奖励0
 - 尊敬声望奖励0
 - 崇敬声望奖励0

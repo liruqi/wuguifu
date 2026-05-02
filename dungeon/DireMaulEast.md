@@ -2,7 +2,7 @@
 
 ![厄运之槌 (东)](DireMaulEast.png)
 
-![厄运之槌 (东) 入口](DireMaulEnt.png)
+[![厄运之槌 (东) 入口](DireMaulEnt.png)](ent/DireMaul.md)
 
 **位置:** 菲拉斯  
 **适用等级:** 55-58 (50+)  
@@ -25,7 +25,6 @@
 - [伊萨利恩 (召唤)](../npc/16097.md)
 - 魔藤碎片0
 - 1') 布满灰尘的书籍 (变化)2
-- 0
 - 小怪0
 - 厄运之槌书籍0
 - 套装: Ironweave Battlesuit2
