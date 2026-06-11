@@ -4,10 +4,10 @@
 
 ## 快速入口
 
-- [副本列表](./turtle/dungeon/)
-- [套装资料](./turtle/set/)
-- [物品查询](./turtle/item/)
-- [NPC 资料](./turtle/npc/)
-- [任务数据库](./turtle/quest/)
-- [世界首领](./turtle/worldboss/)
-- [交通路线](./turtle/transport/)
+- [副本列表](./capycraft/dungeon/)
+- [套装资料](./capycraft/set/)
+- [物品查询](./capycraft/item/)
+- [NPC 资料](./capycraft/npc/)
+- [任务数据库](./capycraft/quest/)
+- [世界首领](./capycraft/worldboss/)
+- [交通路线](./capycraft/transport/)
